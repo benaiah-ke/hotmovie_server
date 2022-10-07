@@ -1,0 +1,11 @@
+{
+  "name": "hotmovie_server",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+	"scripts": {
+		"start": "node server.js"
+  	}
+}
